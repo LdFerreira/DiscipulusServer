@@ -38,7 +38,7 @@ O **Dicipulus** e uma aplicacao para ajudar a comunicacao entre alunos e o profe
 1. Faça um clone do repositório:
 
 ```sh
-  $ git clone https://github.com/LdFerreira/DiscipulusWeb.git
+  $ git clone https://github.com/LdFerreira/DiscipulusServer.git
 ```
 
 2. Executando a Aplicação:
